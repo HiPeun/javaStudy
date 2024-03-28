@@ -1,8 +1,7 @@
 package array;
 
-public class ArrayDY02 {
+public class ArraryDY02 {
     public static void main(String[] args) {
-        //2 x 3 2차원 배열을 만든다.
         int[][ ] arr= {
                 {1,2,3},
                 {4,5,6},
@@ -17,7 +16,5 @@ public class ArrayDY02 {
 
         }
         System.out.println();// 한행 끝나면 라인 변경
-        //0행 출력
-       
     }
 }
